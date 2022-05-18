@@ -1,1 +1,8 @@
-# Kelime
+
+
+# Qurulum
+
+# Heroku
+#abdullah626
+
+
